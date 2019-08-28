@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip"
+    }
+  ],
+  "filename": "KomodOS-1.0-lavender-OFFICIAL-20190827-1738.zip",
+  "changelog": "(+) lavender: Update gps from LA.UM.7.2.r1-07000-sdm660.0\n(+) lavender: Update blobs from LA.UM.7.2.r1-06900-sdm660.0\n(+) lavender: Update build/desc fingerprint from MIUI 10.3.6.0 PFGMIXM/n(+) Upstream kernel to 4.4.189/n(+) And other.../n",
+  "filesize": "835295641",
+  "md5": "8aee5dab277d096c03606cef10484edc",
+  "build_date": "20190828",
+  "device": "lavender",
+  "url": "https://sourceforge.net/projects/komodos-rom/files/lavender/release/KomodOS-1.0-lavender-OFFICIAL-20190827-1738.zip/download",
+  "donate_url": "https://www.paypal.me/DhimasGaming",
+  "developer_url": "http://github.com/alanndz",
+  "news_url": "https://t.me/KomodOSRom",
+  "developer": "alanndz",
+  "error": "false",
+  "website_url": "https://komodos-rom.github.io/",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi Note 7"
+}
