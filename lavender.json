@@ -12,7 +12,7 @@
     }
   ],
   "filename": "KomodOS-1.0-lavender-OFFICIAL-20190827-1738.zip",
-  "changelog": "(+) lavender: Update gps from LA.UM.7.2.r1-07000-sdm660.0\n(+) lavender: Update blobs from LA.UM.7.2.r1-06900-sdm660.0\n(+) lavender: Update build/desc fingerprint from MIUI 10.3.6.0 PFGMIXM/n(+) Upstream kernel to 4.4.189/n(+) And other.../n",
+  "changelog": "(+) lavender: Update gps from LA.UM.7.2.r1-07000-sdm660.0\n(+) lavender: Update blobs from LA.UM.7.2.r1-06900-sdm660.0\n(+) lavender: Update build/desc fingerprint from MIUI 10.3.6.0 PFGMIXM\n(+) Upstream kernel to 4.4.189\n(+) And other...\n",
   "filesize": "835295641",
   "md5": "8aee5dab277d096c03606cef10484edc",
   "build_date": "20190828",
